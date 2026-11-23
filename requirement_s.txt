@@ -1,0 +1,7 @@
+customtkinter
+tkcalendar
+babel
+pillow
+reportlab
+openpyxl
+libsql
